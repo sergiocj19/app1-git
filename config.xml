@@ -35,6 +35,6 @@ Aplicacion que muestra los Datos del alumno
   
   <!-- Colocar icono app -->
   
-<icon src="res/android/mdp1.png"/>
+<icon src="res/android/mdpi.png"/>
 
 </widget>
